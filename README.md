@@ -1,6 +1,5 @@
 # Pacmen
 ## Description
-**Version 1.0.0**
 In this project, I created a web page that produces a PacMan with a click of a button using array methods and techniques for manipulating the DOM. Each PacMan after being created is going to move and bounce around the browser window. 
 
 ## How to Run
